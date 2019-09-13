@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`PvPexMc IP:PvPexmc.aternos.me '     Developer By PvPexMc ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$bc |DF_Team`,"http://twitch.tv/Death Shop")
+client.user.setGame(`PvPexMc IP:PvPexmc.aternos.me`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
