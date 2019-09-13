@@ -1,6 +1,6 @@
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
-const prefix = "$";
+const prefix = "*";
 
 
 
@@ -8,7 +8,7 @@ client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Desert Bot- Script By : EX Clan`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`PvPexMc IP:PvPexmc.aternos.me '     Developer By 🥂 Rex IM Ahmad 🖤#9998 ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`$bc |DF_Team`,"http://twitch.tv/Death Shop")
